@@ -1,13 +1,12 @@
-![logo](https://github.com/thecodinganjali/thecodinganjali/blob/main/Purple%20Modern%20Gaming%20Youtube%20Banner.png)
 
 <h1 align="center">Hi 👋, I'm Anjali Mourya</h1>
 <h3 align="center">Certified Data Science Professional | Transforming Data into Actionable Insights</h3>
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fill:96:96/1*v-fD7Gm_N59ipd5qNKzcXQ.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thecodinganjali&label=Profile%20views&color=0e75b6&style=flat" alt="thecodinganjali" /> </p>
 
-- 🌱 Constantly expanding my skillset while polishing the ones I already possess.
+- 🌱 Constantly expanding New skillset while polishing the ones I already possess.
 - 💭 Ask me about SQL, Excel, PowerBI, Python & Machine Learning.
 - 📫 How to reach me **anjali6857@gmail.com**
 - ✨ Fun Fact **Made the leap from non-tech to tech and discovered it's the perfect playground to be in!**
