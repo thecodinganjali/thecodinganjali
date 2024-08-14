@@ -8,7 +8,7 @@
 
 - 🌱 Constantly expanding New skillset while polishing the ones I already possess.
 - 💭 Ask me about SQL, Excel, PowerBI, Python & Machine Learning.
-- 📫 How to reach me **anjali6857@gmail.com**
+- 📫 How to reach me **anjalimourya680@gmail.com**
 - ✨ Fun Fact **Made the leap from non-tech to tech and discovered it's the perfect playground to be in!**
 
 <h3 align="left">Connect with me:</h3>
