@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thecodinganjali&label=Profile%20views&color=0e75b6&style=flat" alt="thecodinganjali" /> </p>
 
 - 🌱 Constantly expanding New skillset while polishing the ones I already possess.
-- 💭 Ask me about SQL, Excel, PowerBI, Python & Machine Learning.
+- 💭 Ask me about SQL, Excel, PowerBI, Python.
 - 📫 How to reach me **anjalimourya680@gmail.com**
 - ✨ Fun Fact **Made the leap from non-tech to tech and discovered it's the perfect playground to be in!**
 
